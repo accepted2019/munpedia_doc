@@ -18,7 +18,7 @@ footer: CC BY-NC-SA 4.0 Licensed | Contact：mpedia@munshare.com | Copyright © 
 ### 模联百科 Highlight 
 
 - [气候变化](/topic_intro_un/ClimateChange.md)
-- 联合国和模拟联合国总览
+- [https://mpedia.munshare.com/topic_intro_mun/ 联合国和模拟联合国总览]
 - 模联会议流程
 - 如何准备模联会议
 - 如何组织模联学术活动
